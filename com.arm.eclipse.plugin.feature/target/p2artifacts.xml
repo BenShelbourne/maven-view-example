@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='org.eclipse.update.feature' id='com.arm.eclipse.plugin.feature' version='1.0.0.202202030808'>
+    <properties size='6'>
+      <property name='artifact.size' value='694'/>
+      <property name='download.size' value='694'/>
+      <property name='maven-groupId' value='com.arm.eclipse'/>
+      <property name='maven-artifactId' value='com.arm.eclipse.plugin.feature'/>
+      <property name='maven-version' value='1.0.0-SNAPSHOT'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

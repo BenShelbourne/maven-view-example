@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="com.arm.eclipse.plugin.feature">
+      <category name="com.arm.eclipse.update"/>
+   </feature>
+   <category-def name="com.arm.eclipse.update" label="Plugin update site"/>
+</site>
